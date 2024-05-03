@@ -1,0 +1,18 @@
+/* CSS modules are convenient for components that are placed in separate files.
+模組內CSS僅適用導入的元件，也不用擔心 CSS name 名稱衝突*/
+/* Note: You can call the file whatever you like, just remember the correct file extension. */
+
+.bigblue{
+    color:dodgerblue;
+    padding: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.bigred{
+    color:palevioletred;
+    padding: 5px;
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 1.2rem;
+}
